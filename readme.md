@@ -2,6 +2,8 @@
 
 GAN for semi-supervised learning: feature-matching technique. NN constructed according to "later" implementation.
 
+Accuracy about 83.2% on CIFAR10 with 4000 labeled examples (400 per class) after 1200 epochs.
+
 *Later implementation (2018):*
 
 Original code (tf): https://github.com/bruno-31/GAN-manifold-regularization
